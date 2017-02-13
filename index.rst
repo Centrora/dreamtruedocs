@@ -1,7 +1,7 @@
-Welcome to Zammad's documentation!
+Welcome to Dreamtrue's documentation!
 ==================================
 
-The documentation for Zammad is organized into a couple of sections:
+The documentation for Dreamtrue is organized into a couple of sections:
 
 * :ref:`about-docs`
 * :ref:`prerequisites-docs`
@@ -21,7 +21,7 @@ The documentation for Zammad is organized into a couple of sections:
    :maxdepth: 2
    :caption: About
 
-   about-zammad
+   about-Dreamtrue
 
 
 .. _prerequisites-docs:
