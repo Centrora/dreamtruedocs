@@ -7,6 +7,8 @@ Dreamtrue Membership helps many clients successfully build websites in different
 * :ref:`club`
 * :ref:`podcast`
 
+==================================================================================
+
 .. _magazine:
 
 Magazine and Newspaper
