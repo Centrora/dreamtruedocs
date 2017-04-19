@@ -1,7 +1,8 @@
 Business Scenarios of Dreamtrue Membership
 *********************************************
 
-Dreamtrue Membership helps many clients successfully build websites in different business scenarios, such as
+Dreamtrue Membership helps many clients successfully build websites in different business scenarios, such as,
+
 * :ref:`magazine`
 * :ref:`club`
 * :ref:`podcast`
