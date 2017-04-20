@@ -50,7 +50,7 @@ The documentation for Dreamtrue is organized into a couple of sections:
    :maxdepth: 2
    :caption: Front-end Settings
 
-   scenarios
+   cases
 
 
 .. _faq_docs:
