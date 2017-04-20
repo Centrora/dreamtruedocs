@@ -1,3 +1,4 @@
+*********************************************
 Business Cases of Dreamtrue Membership
 *********************************************
 
@@ -12,6 +13,7 @@ Dreamtrue Membership helps many clients successfully build websites in different
 
 .. _magazine:
 
+------------------------------
 Magazine and Newspaper
 ------------------------------
 
