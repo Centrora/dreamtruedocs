@@ -37,8 +37,15 @@ Scenario:
 Front-end Workflow:
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1. Site visitors
+1. When accessing the issue of the publication, site visitors will be shown a message describing the subscription and giving the signup link.
 
+2. If the user has the subscription, he/she can login and can continue reading on the same page.
+
+3. If the user is not a subscriber, he/she can choose to subscribe it. After the subscription, the user is redirected to the Member Panel link or back to the issue before the subscription (definable by the site admin).
+
+4. The subscriber can manage the subscription in the Member Panel and also check the list of all publications/issues he/she can view.
+
+5. Optional setting: the contents which the subscriber has viewed are still available even after the subscription is expired.
 
 
 
