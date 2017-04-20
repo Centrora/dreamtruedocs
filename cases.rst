@@ -21,7 +21,7 @@ Magazine and Newspaper
 With Dreamtrue membership, we can easily build a magazine / newspaper subscription website.
 
 ^^^^^^^^^^^^^^^^^^
-Scenario:
+* Scenario:
 ^^^^^^^^^^^^^^^^^^
 
 1. The website provides different magazines, newspapers or any other publications.
