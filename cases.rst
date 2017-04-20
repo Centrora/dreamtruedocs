@@ -19,6 +19,7 @@ Magazine and Newspaper
 
 With Dreamtrue membership, we can easily build a magazine / newspaper subscription website.
 
+^^^^^^^^^^^^^^^^^^
 Scenario:
 ^^^^^^^^^^^^^^^^^^
 
@@ -36,6 +37,7 @@ Scenario:
 
 7. There are 2 modes available, *A)* the subscriber can view all existing issues of the publication when the subscription is active, or *B)* the subscriber can only view the issues which are created within the subscription period.
 
+^^^^^^^^^^^^^^^^^^^^^^^^^
 Front-end Workflow:
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -53,6 +55,7 @@ Front-end Workflow:
 
 .. _club:
 
+--------------------------------
 Club Membership
 --------------------------------
 
@@ -62,6 +65,7 @@ Club Membership
 
 .. _podcast:
 
+-----------------------------------
 Podcast / Music Streaming
 -----------------------------------
 
@@ -70,5 +74,6 @@ Podcast / Music Streaming
 
 .. _library:
 
+-----------------------------------
 Library
 -----------------------------------
