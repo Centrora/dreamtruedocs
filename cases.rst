@@ -1,5 +1,5 @@
 *********************************************
-Business Cases of Dreamtrue Membership
+Dreamtrue Membership Business Cases
 *********************************************
 
 Dreamtrue Membership helps many clients successfully build websites in different business scenarios, such as,
@@ -21,7 +21,7 @@ Magazine and Newspaper
 With Dreamtrue membership, we can easily build a magazine / newspaper subscription website.
 
 ^^^^^^^^^^^^^^^^^^
-* Scenario:
+Scenario:
 ^^^^^^^^^^^^^^^^^^
 
 1. The website provides different magazines, newspapers or any other publications.
@@ -92,10 +92,10 @@ Front-end Workflow:
 .. _podcast:
 
 -----------------------------------
-Podcast / Music Streaming
+Music / Video Streaming
 -----------------------------------
 
-
+Dreamtrue Membership can be used to build
 
 
 .. _library:
