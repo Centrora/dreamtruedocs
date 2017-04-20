@@ -11,6 +11,7 @@ Dreamtrue Membership helps many clients successfully build websites in different
 
 ==================================================================================
 
+
 .. _magazine:
 
 ------------------------------
@@ -35,7 +36,7 @@ Scenario:
 
 6. Front-end users need to subscribe the subscription which controls the publication to have the full reading access.
 
-7. There are 2 modes available, *A)* the subscriber can view all existing issues of the publication when the subscription is active, or *B)* the subscriber can only view the issues which are created within the subscription period.
+7. There are 2 modes available, *(A)* the subscriber can view all existing issues of the publication when the subscription is active, or *(B)* the subscriber can only view the issues which are created within the subscription period.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 Front-end Workflow:
@@ -52,15 +53,40 @@ Front-end Workflow:
 5. Optional setting: the contents which the subscriber has viewed are still available even after the subscription is expired.
 
 
-
 .. _club:
 
 --------------------------------
 Club Membership
 --------------------------------
 
+Dreamtrue Membership can build the website for the club membership registration.
 
+^^^^^^^^^^^^^^^^^^
+Scenario:
+^^^^^^^^^^^^^^^^^^
+1. The website provides different memberships of the club.
 
+2. Memberships have different prices and lengths.
+
+3. The registration form can collect the custom user information defined by the site admin.
+
+4. Export the members list and detailed information.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^
+Front-end Workflow:
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1. The membership page shows all memberships.
+
+2. The user chooses one to buy.
+
+3. The user is redirected to the Member Panel after the payment.
+
+4. There the user can print the membership card or get the unique membership code.
+
+5. The site admin will get the notification for the registration.
+
+6. The site admin can periodically export the new members to make the membership cards and deliver them by post.
 
 
 .. _podcast:
