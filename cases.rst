@@ -16,7 +16,7 @@ Dreamtrue Membership helps many clients successfully build websites in different
 .. _magazine:
 
 ------------------------------
-* Magazine and Newspaper
+A. Magazine and Newspaper
 ------------------------------
 
 With Dreamtrue membership, we can easily build a magazine / newspaper subscription website.
@@ -57,7 +57,7 @@ Front-end Workflow:
 .. _club:
 
 --------------------------------
-Club Membership
+B. Club Membership
 --------------------------------
 
 Dreamtrue Membership can build the website for the club membership registration.
@@ -93,7 +93,7 @@ Front-end Workflow:
 .. _podcast:
 
 -----------------------------------
-Podcast / Media Streaming
+C. Podcast / Media Streaming
 -----------------------------------
 
 Dreamtrue Membership can be used to build the website providing the Podcast / Media Streaming service.
@@ -120,7 +120,7 @@ Front-end Workflow:
 .. _library:
 
 -----------------------------------
-Library
+D. Library
 -----------------------------------
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -149,7 +149,7 @@ Front-end Workflow:
 .. _listing:
 
 -----------------------------------
-Listing Submission
+E. Listing Submission
 -----------------------------------
 
 If you want to build a website with the paid listing service, Dreamtrue Membership can also help.
