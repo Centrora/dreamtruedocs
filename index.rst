@@ -5,8 +5,8 @@ The documentation for Dreamtrue is organized into a couple of sections:
 
 * :ref:`about-docs`
 * :ref:`install-docs`
-* :ref:`subscription-docs`
-* :ref:`order-docs`
+* :ref:`configuration-docs`
+* :ref:`manage-docs`
 * :ref:`front-end-docs`
 * :ref:`faq-docs`
 
@@ -16,7 +16,7 @@ The documentation for Dreamtrue is organized into a couple of sections:
    :maxdepth: 2
    :caption: About
 
-   about-Dreamtrue
+   about-dreamtrue
 
 
 .. _install-docs:
@@ -26,30 +26,41 @@ The documentation for Dreamtrue is organized into a couple of sections:
    :caption: Installation
 
    install-dreamtrue
+   uninstall
 
 
-.. _subscroption-docs:
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Subscription Management
-
-    manage-subscription
-
-
-.. _order-docs:
+.. _configuration-docs:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Order Management
+   :caption: Configurations
 
+   basic-settings
+   manage-subscription
+   payment-methods
+   emails
+   taxation
+   group-license
+   coupon
+
+
+.. _manage-docs:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Management
+
+   order-management
+   sales-stats
+   sales-export
 
 .. _front-end-docs:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Front-end Settings
+   :caption: Front-end
 
+   register
    cases
 
 
