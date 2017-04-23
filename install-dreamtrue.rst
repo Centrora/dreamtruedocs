@@ -18,4 +18,4 @@ After installing the package, please enter the component Dreamtrue Membership in
 Manually Installation
 ---------------------------
 
-If you have trouble in installing it in the above way, the reason could be the server upload file size limit is low which disallows the package upload, or the server memory limit is low which stops the package extraction. In this case, we can use the manual way to install it. Please refer to the link ;ref;`manually-install-component` for the detailed steps.
+If you have trouble in installing it in the above way, the reason could be the server upload file size limit is low which disallows the package upload, or the server memory limit is low which stops the package extraction. In this case, we can use the manual way to install it. Please refer to the link :ref:`manually-install-component` for the detailed steps.
