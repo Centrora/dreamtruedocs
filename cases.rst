@@ -8,6 +8,7 @@ Dreamtrue Membership helps many clients successfully build websites in different
 * :ref:`club`
 * :ref:`podcast`
 * :ref:`library`
+* :ref:`listing`
 
 ==================================================================================
 
@@ -92,10 +93,28 @@ Front-end Workflow:
 .. _podcast:
 
 -----------------------------------
-Music / Video Streaming
+Podcast / Media Streaming
 -----------------------------------
 
-Dreamtrue Membership can be used to build
+Dreamtrue Membership can be used to build the website providing the Podcast / Media Streaming service.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^
+Scenario:
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1. The website provides podcast or media streaming service.
+
+2. It offers different memberships with which the users can access different service. The memberships have different lengths such as 3 months, 6 months, 1 year, etc, and different access levels like category A, categories A+B, and unlimited.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^
+Front-end Workflow:
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1. List all membership options.
+
+2. Users choose one of the options to pay.
+
+3. Grant the access after the payment.
 
 
 .. _library:
@@ -103,3 +122,59 @@ Dreamtrue Membership can be used to build
 -----------------------------------
 Library
 -----------------------------------
+
+^^^^^^^^^^^^^^^^^^^^^^^^^
+Scenario:
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1. The website has the materials which are only available for members.
+
+2. The members can be organizations who can get the access from a specific IP range.
+
+3. The IP range needs the sie admin verification.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^
+Front-end Workflow:
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1. The users can choose the organization membership.
+
+2. After joining the membership, the members have the option to submit the IP ranges.
+
+3. The IP ranges can be automatically registered or need the site admin verification.
+
+4. All visitors from the IP ranges can access the materials assigned to the membership.
+
+
+.. listing:
+
+-----------------------------------
+Listing Submission
+-----------------------------------
+
+If you want to build a website with the paid listing service, Dreamtrue Membership can also help.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^
+Scenario:
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1. The website provides listing service, such as job positions, property sales/rentals, advertisements, etc. The listings can be managed by 3rd party extensions.
+
+2. Different memberships defining the price, the number of listing to submit and the publishing period, for example, $50 for 5 listing in 3 months, $ 150 for 10 listings in 6 months, etc.
+
+3. Users need to subscribe the membership to submit listings and have them published during the membership period.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^
+Front-end Workflow:
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1. Existing listings can be accessible by public on the website.
+
+2. The business users need to register the membership to access the listing submission page.
+
+3. After the listings are submitted, the website admin will verify to publish them.
+
+4. The listings will be unpublished after the member's membership expires.
+
+
+
