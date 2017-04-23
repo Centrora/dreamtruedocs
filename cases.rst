@@ -16,7 +16,7 @@ Dreamtrue Membership helps many clients successfully build websites in different
 .. _magazine:
 
 ------------------------------
-Magazine and Newspaper
+* Magazine and Newspaper
 ------------------------------
 
 With Dreamtrue membership, we can easily build a magazine / newspaper subscription website.
@@ -146,7 +146,7 @@ Front-end Workflow:
 4. All visitors from the IP ranges can access the materials assigned to the membership.
 
 
-.. listing:
+.. _listing:
 
 -----------------------------------
 Listing Submission
