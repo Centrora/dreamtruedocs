@@ -64,7 +64,7 @@ The documentation for Dreamtrue is organized into a couple of sections:
    cases
 
 
-.. _faq_docs:
+.. _faq-docs:
 
 .. toctree::
    :maxdepth: 2
