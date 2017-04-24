@@ -8,6 +8,8 @@ Please install the component like most Joomla! extensions. Go to the menu ``Exte
 
 .. image:: https://cdn.dream-true.com/images/Tutorials/001_Upload_Package.jpg
 
+.. _install-db:
+
 Install the Database
 ------------------------
 
