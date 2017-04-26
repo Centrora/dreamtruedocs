@@ -7,6 +7,7 @@ The documentation for Dreamtrue is organized into a couple of sections:
 * :ref:`install-docs`
 * :ref:`configuration-docs`
 * :ref:`manage-docs`
+* :ref:`marketing-docs`
 * :ref:`front-end-docs`
 * :ref:`faq-docs`
 
@@ -40,7 +41,6 @@ The documentation for Dreamtrue is organized into a couple of sections:
    payment-methods
    emails
    taxation
-   marketing
    group-license
    coupon
 
@@ -54,6 +54,16 @@ The documentation for Dreamtrue is organized into a couple of sections:
    order-management
    sales-stats
    sales-export
+
+
+.. _marketing-docs:
+
+.. toctree::
+   :maxdeth: 2
+   :caption: Marketing
+
+   marketing
+
 
 .. _front-end-docs:
 
