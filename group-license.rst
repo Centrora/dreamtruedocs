@@ -1,3 +1,3 @@
-Group Licenses
+Group Licenses Configuration
 ******************
 

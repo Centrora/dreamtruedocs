@@ -40,6 +40,7 @@ The documentation for Dreamtrue is organized into a couple of sections:
    payment-methods
    emails
    taxation
+   marketing
    group-license
    coupon
 
