@@ -16,3 +16,4 @@ We can then use the ``New`` at the top right corner to add payment methods from 
 After adding a payment method, please configure it with your account settings.
 
 
+.. _contact us: https://dream-true.com
