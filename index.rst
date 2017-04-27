@@ -82,3 +82,7 @@ The documentation for Dreamtrue is organized into a couple of sections:
    :caption: FAQs
 
    manually-install-component
+
+
+
+.. _contact us: https://dream-true.com
