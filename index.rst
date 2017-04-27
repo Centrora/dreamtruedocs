@@ -37,7 +37,6 @@ The documentation for Dreamtrue is organized into a couple of sections:
    :caption: Configurations
 
    basic-settings
-   manage-subscription
    payment-methods
    emails
    taxation
@@ -51,6 +50,7 @@ The documentation for Dreamtrue is organized into a couple of sections:
    :maxdepth: 2
    :caption: Management
 
+   manage-subscription
    order-management
    sales-stats
    sales-export
