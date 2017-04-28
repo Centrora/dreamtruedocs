@@ -13,7 +13,8 @@ We can then use the ``New`` at the top right corner to add payment methods from 
 
 .. note:: For basic users, only Off-line Payment and PayPal are available. Other payment methods need the premium membership. Please `contact us`_ if you need to add more custom payment gateways.
 
-After adding a payment method, please configure it with your account settings.
+After adding a payment method, please configure it with your payment gateway account settings by the ``Action``.
 
+.. image:: https://cdn.dream-true.com/images/Tutorials/105_Configure_PayPal.jpg
 
 .. _contact us: https://dream-true.com
