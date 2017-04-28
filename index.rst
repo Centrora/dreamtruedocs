@@ -59,7 +59,7 @@ The documentation for Dreamtrue is organized into a couple of sections:
 .. _marketing-docs:
 
 .. toctree::
-   :maxdeth: 2
+   :maxdepth: 2
    :caption: Marketing
 
    marketing
