@@ -15,6 +15,8 @@ We can also add a new email template or edit the existing one. Click on the ``Ne
 
 In the panel, we can define the email parameters.
 
-1. In the ``Email Type`` drop-down menu, we can choose for what event the email will be triggered.
+1. In the ``Email Type`` drop-down menu, choose for what event the email will be triggered.
 
-2.
+2. Edit the template body with the available variables which can fetch the user/membership information.
+
+3. After saving the email, we can test it by entering the email address at the top right corner and clicking ``Send``.
