@@ -41,7 +41,6 @@ The documentation for Dreamtrue is organized into a couple of sections:
    emails
    taxation
    group-license
-   coupon
 
 
 .. _manage-docs:
@@ -52,6 +51,7 @@ The documentation for Dreamtrue is organized into a couple of sections:
 
    manage-subscription
    order-management
+   coupon
    sales-stats
    sales-export
 
