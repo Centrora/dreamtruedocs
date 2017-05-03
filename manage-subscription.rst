@@ -16,7 +16,7 @@ When creating a new plan, we need to configure the basic information.
 |Description              |Description of the coupon code                                          |
 +-------------------------+------------------------------------------------------------------------+
 |Is Percentage            |Defines if the discount a percentage or an absolute amount              |
-+=========================+========================================================================+
++-------------------------+------------------------------------------------------------------------+
 |Discount                 |The discount amount of the coupon code                                  |
 +-------------------------+------------------------------------------------------------------------+
 |Start/Expire Date        |The date rage that the coupon code is valid                             |
