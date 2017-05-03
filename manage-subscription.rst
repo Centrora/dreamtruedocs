@@ -29,3 +29,13 @@ When creating a new plan, we need to configure the basic information.
 +-------------------------+------------------------------------------------------------------------+
 |Maximum Redemption Limit |Defines how many times that the coupon can be used                      |
 +-------------------------+------------------------------------------------------------------------+
+
+
+=====  =====  =======
+A      B      A and B
+=====  =====  =======
+False  False  False
+True   False  False
+False  True   False
+True   True   True
+=====  =====  =======
