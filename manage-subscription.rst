@@ -26,7 +26,7 @@ When creating a new plan, we need to configure the basic information.
 |Life Time Membership     |Defined for which memberships the coupon is valid                       |
 +-------------------------+------------------------------------------------------------------------+
 |Renewal Options          |For which currencies the coupon is applicable                           |
-|                         |                                                                        |
+|                         |Test line                                                               |
 +-------------------------+------------------------------------------------------------------------+
 |Maximum Redemption Limit |Defines how many times that the coupon can be used                      |
 +-------------------------+------------------------------------------------------------------------+
