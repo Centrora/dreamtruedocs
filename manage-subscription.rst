@@ -27,17 +27,17 @@ When creating a new plan, we need to configure the basic information.
 +--------------------------+---------------------------------------------------------------------------------------+
 |Renewal Options           |If the plan is the auto-recurring subscription or one-off payment membership           |
 +--------------------------+---------------------------------------------------------------------------------------+
-|Offering Trial            |Defines how many times that the coupon can be used                                     |
+|Offering Trial            |Defines if the subscription has a trial period when it's an auto recurring plan        |
 +--------------------------+---------------------------------------------------------------------------------------+
-|Recurrence                |Defines how many times that the coupon can be used                                     |
+|Recurrence                |The unit of the subscription recurrence period                                         |
 +--------------------------+---------------------------------------------------------------------------------------+
-|Length                    |Defines how many times that the coupon can be used                                     |
+|Length                    |The length of each subscription recurrence period                                      |
 +--------------------------+---------------------------------------------------------------------------------------+
-|Extra License Price       |Defines how many times that the coupon can be used                                     |
+|Extra License Price       |The price the extra license under the same plan                                        |
 +--------------------------+---------------------------------------------------------------------------------------+
-|Add Package               |Defines how many times that the coupon can be used                                     |
+|Add Package               |At least a package is required to define the number of licenses and price of the plan  |
 +--------------------------+---------------------------------------------------------------------------------------+
-|Package #x                |Defines how many times that the coupon can be used                                     |
+|Package #x                |Different price options defining different license numbers and prices                                   |
 +--------------------------+---------------------------------------------------------------------------------------+
 
 
