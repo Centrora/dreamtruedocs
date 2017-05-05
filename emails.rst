@@ -1,3 +1,5 @@
+.. _email-settings:
+
 Email Settings
 **********************
 
