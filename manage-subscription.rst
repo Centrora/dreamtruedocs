@@ -11,17 +11,17 @@ When creating a new plan, you need to configure the basic information. For each 
 +--------------------------+---------------------------------------------------------------------------------------+
 |Field                     |Explanation                                                                            |
 +==========================+=======================================================================================+
-|Title                     |Title of the subscription plan                                                           |
+|Title                     |Title of the subscription plan                                                         |
 +--------------------------+---------------------------------------------------------------------------------------+
 |Display Name              |The plan name shown on the front-end registration form                                 |
 +--------------------------+---------------------------------------------------------------------------------------+
-|Publish                   |If the subscription is published                                                         |
+|Publish                   |If the subscription is published                                                       |
 +--------------------------+---------------------------------------------------------------------------------------+
-|Ordering                  |Defines the ordering of the plan in the front-end subscription list                      |
+|Ordering                  |Defines the ordering of the plan in the front-end subscription list                    |
 +--------------------------+---------------------------------------------------------------------------------------+
-|Description               |Description of the subscription plan                                                     |
+|Description               |Description of the subscription plan                                                   |
 +--------------------------+---------------------------------------------------------------------------------------+
-|Currency                  |Currency of subscription plan price                                                      |
+|Currency                  |Currency of subscription plan price                                                    |
 +--------------------------+---------------------------------------------------------------------------------------+
 |Life Time Membership      |Defines if the membership is a lifetime one                                            |
 +--------------------------+---------------------------------------------------------------------------------------+
