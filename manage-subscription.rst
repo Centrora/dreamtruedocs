@@ -48,3 +48,4 @@ After a plan is created, we can further configure its settings. We can define th
 Affiliate Commissions
 -------------------------------------
 
+In the ``Affiliate Commissions`` setting in the **Hook** column, we can link the subscription plan to the affiliate program. Currently, it supports the integration with iDevAffiliate.
