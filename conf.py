@@ -48,8 +48,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Dreamtrue'
-copyright = u'2017, Dreamtrue'
+project = u'Dream True'
+copyright = u'2017, Dream True'
 author = u'Dreamtrue'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -135,7 +135,7 @@ html_theme_path = ["themes"]
 # The name for this set of Sphinx documents.
 # "<project> v<release> documentation" by default.
 #
-# html_title = u'Dreamtrue v1.0.0'
+# html_title = u'Dreamtrue v8.0.0'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #
