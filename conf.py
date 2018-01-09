@@ -144,7 +144,7 @@ html_theme_path = ["themes"]
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
 #
-html_logo = "images/logo_dt_white.png"
+html_logo = "images/dt_logo_white_tm_xs.png"
 
 # The name of an image file (relative to this directory) to use as a favicon of
 # the docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32

@@ -39,7 +39,7 @@ Create New Member from Existing Users
 
 If we want to add a new member to a membership from the existing users on the website, we can use the ``New Member`` button. Choose the membership plan and package and then search for the user whom we plan to add. As the member is manually added, we can set the payment method as the off-line payment (bank transfer).
 
-Create a New User
+Create New User
 -----------------------------------------------------------
 
 We can also add a new user to the website conveniently in the same panel. Click the ``New User`` button and enter the required user data. After the user is created, we can use the ``New member`` button again to add the new user to a subscription plan.
