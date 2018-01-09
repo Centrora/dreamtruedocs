@@ -36,7 +36,6 @@ The documentation for Dreamtrue is organized into a couple of sections:
    :maxdepth: 2
    :caption: Configurations
 
-   basic-settings
    payment-methods
    emails
    taxation
